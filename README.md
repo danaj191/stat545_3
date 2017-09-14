@@ -3,3 +3,6 @@
 Nice work! hiiiiiiiii
 
 added line locally
+
+
+new line for class 4 demonstrating remote conflict
